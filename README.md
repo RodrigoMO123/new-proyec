@@ -1,7 +1,4 @@
-# new-proyec
-es de prueba : https://rodrigomo123.github.io/new-proyec/
-/*!
- * Bootswatch v5.1.3
+* Bootswatch v5.1.3
  * Based on Bootstrap
 *//*!
  * Bootstrap v5.1.3 (https://getbootstrap.com/)
